@@ -1,5 +1,5 @@
 # Google-App-rating-prediction-App
-# Google App Rating Prediction App
+
 
 This repository contains a Python application for Predicting the ratings of Google apps using various machine learning techniques. The application utilizes popular Python libraries such as NumPy, pandas, matplotlib, seaborn, and scikit-learn to preprocess the data, visualize insights, perform dimensionality reduction using PCA, and create a predictive model using Random Forest Regression.
 
